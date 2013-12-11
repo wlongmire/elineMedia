@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<passions>
+	
+	<passion index="0">
+		<name>Animals</name>
+		<description>Loves animals and studying animals.</description>
+		<icon>MakingThingsIcon</icon>
+	</passion>
+	
+	<passion index="1">
+		<name>Helping Others</name>
+		<description>Loves helping other people and animals.</description>
+		<icon>HelpingOthersIcon</icon>
+	</passion>
+	
+	<passion index="2">
+		<name>Healthcare</name>
+		<description>Loves healing people and animals.</description>
+		<icon>ConnectingWithPeopleIcon</icon>
+	</passion>
+	
+</passions>

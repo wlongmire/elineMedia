@@ -1,0 +1,1629 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<opportunities>
+	
+	<!-- 7th grade -->
+	<opportunity index="0">
+		<name>Play Baseball</name>
+		<shortDescription>Play for the baseball travelling team.</shortDescription>
+		<longDescription>Play for the baseball travelling team.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="5">1</skill>
+			<skill level="2">2</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="1">
+		<name>Join the Scouts</name>
+		<shortDescription>Join the Boy or Girl Scouts of America.</shortDescription>
+		<longDescription>Join the Boy or Girl Scouts of America.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="4">0</skill>
+			<skill level="2">1</skill>
+			<skill level="3">4</skill>
+		</skills>
+		<passions>
+			<passion level="3">2</passion>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="2">
+		<name>Make a Costume</name>
+		<shortDescription>Make an awesome Halloween costume.</shortDescription>
+		<longDescription>Make an awesome Halloween costume.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="2">0</skill>
+			<skill level="4">3</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>
+
+	<opportunity index="3">
+		<name>Play Minecraft</name>
+		<shortDescription>Re-create your neighberhood in Minecraft.</shortDescription>
+		<longDescription>Re-create your neighberhood in Minecraft.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="3">0</skill>
+			<skill level="4">3</skill>
+			<skill level="3">4</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="4">
+		<name>Submit a Poem</name>
+		<shortDescription>Submit a poem to a student literary magazine.</shortDescription>
+		<longDescription>Submit a poem to a student literary magazine.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="4">3</skill>
+			<skill level="4">2</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="5">
+		<name>Get a New Pet</name>
+		<shortDescription>Get a new family pet to take care of.</shortDescription>
+		<longDescription>Get a new family pet to take care of.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="2">0</skill>
+			<skill level="3">1</skill>
+		</skills>
+		<passions>
+			<passion level="3">0</passion>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="6">
+		<name>Get Red-Cross Certified</name>
+		<shortDescription>Become a Red-Cross certified babysitter.</shortDescription>
+		<longDescription>Become a Red-Cross certified babysitter.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="3">0</skill>
+			<skill level="3">1</skill>
+		</skills>
+		<passions>
+			<passion level="3">2</passion>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="7">
+		<name>Learn How to Juggle</name>
+		<shortDescription>Learn how to juggle for the upcoming talent show.</shortDescription>
+		<longDescription>Learn how to juggle for the upcoming talent show.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="2">0</skill>
+			<skill level="4">3</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="8">
+		<name>Go to Theater Camp</name>
+		<shortDescription>Attend musical theater camp over the summer.</shortDescription>
+		<longDescription>Attend musical theater camp over the summer.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="5">3</skill>
+			<skill level="4">2</skill>
+			<skill level="5">4</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="9">
+		<name>Go to Science Camp</name>
+		<shortDescription>Attend science camp over the summer.</shortDescription>
+		<longDescription>AAttend science camp over the summer.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="4">0</skill>
+			<skill level="3">1</skill>
+			<skill level="2">2</skill>
+			<skill level="4">4</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>
+	
+	<!--8th Grade-->
+	<opportunity index="10">
+		<name>Act in a Play</name>
+		<shortDescription>Act in the school play.</shortDescription>
+		<longDescription>Act in the school play.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="5">1</skill>
+			<skill level="4">3</skill>
+			<skill level="5">2</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="11">
+		<name>Build Sets</name>
+		<shortDescription>Build sets for the school play.</shortDescription>
+		<longDescription>Build sets for the school play.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="4">0</skill>
+			<skill level="2">1</skill>
+			<skill level="5">3</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="12">
+		<name>Build a Treehouse</name>
+		<shortDescription>Build a treehouse in your backyard.</shortDescription>
+		<longDescription>Build a treehouse in your backyard.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="3">0</skill>
+			<skill level="2">3</skill>
+			<skill level="2">4</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="13">
+		<name>Learn the Guitar</name>
+		<shortDescription>Learn to play the electric guitar.</shortDescription>
+		<longDescription>Learn to play the electric guitar.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="4">3</skill>
+			<skill level="3">2</skill>
+			<skill level="2">4</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="14">
+		<name>Enter the Science Fair</name>
+		<shortDescription>Participate in the regional science fair.</shortDescription>
+		<longDescription>Participate in the regional science fair.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="5">0</skill>
+			<skill level="2">3</skill>
+			<skill level="4">4</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="15">
+		<name>Walk Dogs</name>
+		<shortDescription>Start a dog walking business.</shortDescription>
+		<longDescription>Start a dog walking business.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="3">1</skill>
+			<skill level="3">2</skill>
+		</skills>
+		<passions>
+			<passion level="5">0</passion>
+			<passion level="3">1</passion>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="16">
+		<name>Build a Computer</name>
+		<shortDescription>Build a brand new, powerful computer.</shortDescription>
+		<longDescription>Build a brand new, powerful computer.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="5">0</skill>
+			<skill level="8">4</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="17">
+		<name>Enter the Math Olympics</name>
+		<shortDescription>Participate in the regional math olympics.</shortDescription>
+		<longDescription>Participate in the regional math olympics.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="8">0</skill>
+			<skill level="2">1</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="18">
+		<name>Volunteer at a Homeless Shelter</name>
+		<shortDescription>Volunteer at the local homeless shelter.</shortDescription>
+		<longDescription>Volunteer at the local homeless shelter.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="2">1</skill>
+			<skill level="4">2</skill>
+		</skills>
+		<passions>
+			<passion level="8">1</passion>
+			<passion level="3">2</passion>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="19">
+		<name>Make a Comic</name>
+		<shortDescription>Write, illustrate, and print a comic book.</shortDescription>
+		<longDescription>Write, illustrate, and print a comic book.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="5">3</skill>
+			<skill level="2">2</skill>
+			<skill level="3">4</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>
+	
+	<!--9th grade-->
+	<opportunity index="20">
+		<name>Join a Robotics Team</name>
+		<shortDescription>Join a competitive robotics team.</shortDescription>
+		<longDescription>Join a competitive robotics team.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="5">0</skill>
+			<skill level="4">1</skill>
+			<skill level="3">3</skill>
+			<!--	skill level="2">2</skill>	-->
+			<skill level="8">4</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>	
+	
+	<opportunity index="21">
+		<name>Work on the School Yearbook</name>
+		<shortDescription>Work on the school yearbook.</shortDescription>
+		<longDescription>Work on the school yearbook.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="4">1</skill>
+			<skill level="4">3</skill>
+			<skill level="3">2</skill>
+			<skill level="2">4</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>	
+	
+	<opportunity index="22">
+		<name>Start a Photography Blog</name>
+		<shortDescription>Start a photography blog.</shortDescription>
+		<longDescription>Start a photography blog.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="2">0</skill>
+			<skill level="3">3</skill>
+			<skill level="4">2</skill>
+			<skill level="3">4</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>	
+	
+	<opportunity index="23">
+		<name>Paint a Painting</name>
+		<shortDescription>Make a painting for the school gallery.</shortDescription>
+		<longDescription>Make a painting for the school gallery.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="7">3</skill>
+			<skill level="4">2</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>	
+	
+	<opportunity index="24">
+		<name>Volunteer at a Nursing Home</name>
+		<shortDescription>Volunteer at a local nursing home.</shortDescription>
+		<longDescription>Volunteer at a local nursing home.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="4">1</skill>
+			<skill level="3">2</skill>
+		</skills>
+		<passions>
+			<passion level="8">0</passion>
+			<passion level="3">1</passion>		
+		</passions>
+	</opportunity>	
+	
+	<opportunity index="25">
+		<name>Join the Technology Club</name>
+		<shortDescription>Join and attend the meetings of your school's technology club.</shortDescription>
+		<longDescription>Join and attend the meetings of your school's technology club.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="4">0</skill>
+			<skill level="2">1</skill>
+			<skill level="7">4</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>	
+	
+	<opportunity index="26">
+		<name>Start an Science Journal</name>
+		<shortDescription>Keep a journal of interesting scientific observations.</shortDescription>
+		<longDescription>Keep a journal of interesting scientific observations.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="3">0</skill>
+			<skill level="2">3</skill>
+			<skill level="2">2</skill>
+			<skill level="3">4</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>	
+	
+	<opportunity index="27">
+		<name>Get a Math Tutor</name>
+		<shortDescription>Get a math tutor.</shortDescription>
+		<longDescription>Get a math tutor.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="4">0</skill>
+			<skill level="2">1</skill>
+			<skill level="2">2</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>	
+	
+	<opportunity index="28">
+		<name>Volunteer at the Zoo</name>
+		<shortDescription>Volunteer at the local zoo.</shortDescription>
+		<longDescription>Volunteer at the local zoo.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="4">1</skill>
+			<skill level="2">2</skill>
+		</skills>
+		<passions>
+			<passion level="8">0</passion>
+		</passions>
+	</opportunity>	
+	
+	<opportunity index="29">
+		<name>Write a Short Story</name>
+		<shortDescription>Write a short story for your school's literary magazine.</shortDescription>
+		<longDescription>Write a short story for your school's literary magazine.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="5">3</skill>
+			<skill level="4">2</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>	
+	
+	<!--10th grade-->
+	<opportunity index="30">
+		<name>Play Basketball</name>
+		<shortDescription>Play for your school's basketball team.</shortDescription>
+		<longDescription>Play for your school's basketball team.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="5">1</skill>
+			<skill level="2">2</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>		
+	
+	<opportunity index="31">
+		<name>Enter a Chess Tournament</name>
+		<shortDescription>Train for your school's chess tournament.</shortDescription>
+		<longDescription>Train for your school's chess tournament.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="5">0</skill>
+			<skill level="2">1</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>		
+	
+	<opportunity index="32">
+		<name>Program a Video Game</name>
+		<shortDescription>Program a simple video game, all by yourself!</shortDescription>
+		<longDescription>Program a simple video game, all by yourself!</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="4">0</skill>
+			<skill level="4">3</skill>
+			<skill level="5">4</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>	
+	
+	<opportunity index="33">
+		<name>Work at a Food Stand</name>
+		<shortDescription>Work part time at a local frozen banana stand.</shortDescription>
+		<longDescription>Work part time at a local frozen banana stand.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="4">1</skill>
+			<skill level="4">2</skill>
+			<skill level="2">4</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>	
+	
+	<opportunity index="34">
+		<name>Join the Film Club</name>
+		<shortDescription>Join and attend meetings for your school's film appreciation club.</shortDescription>
+		<longDescription>Join and attend meetings for your school's film appreciation club.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="2">1</skill>
+			<skill level="4">3</skill>
+			<skill level="4">2</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>	
+	
+	<opportunity index="35">
+		<name>Build an Engine</name>
+		<shortDescription>Build a simple, but working combustion engine from scratch.</shortDescription>
+		<longDescription>Build a simple, but working combustion engine from scratch.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="5">0</skill>
+			<skill level="8">4</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>	
+	
+	<opportunity index="36">
+		<name>Make Cookies</name>
+		<shortDescription>Perfect a chocolate-chip cookie recipe.</shortDescription>
+		<longDescription>Perfect a chocolate-chip cookie recipe.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="2">0</skill>
+			<skill level="4">3</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>	
+	
+	<opportunity index="37">
+		<name>Email a STEM Professional</name>
+		<shortDescription>Email a STEM professional with any questions you might have.</shortDescription>
+		<longDescription>Email a STEM professional with any questions you might have.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="3">0</skill>
+			<skill level="3">1</skill>
+			<skill level="3">2</skill>
+			<skill level="3">4</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>	
+	
+	<opportunity index="38">
+		<name>Work at a Cinema</name>
+		<shortDescription>Work part time at a local movie theater.</shortDescription>
+		<longDescription>Work part time at a local movie theater.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="3">1</skill>
+			<skill level="2">3</skill>
+			<skill level="2">2</skill>
+			<skill level="2">4</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>	
+	
+	<opportunity index="39">
+		<name>Volunteer at an Animal Shelter</name>
+		<shortDescription>Volunteer at the local animal shelter.</shortDescription>
+		<longDescription>Volunteer at the local animal shelter.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="3">0</skill>
+			<skill level="3">1</skill>
+			<skill level="3">2</skill>
+		</skills>
+		<passions>
+			<passion level="10">0</passion>
+			<passion level="5">1</passion>
+			<passion level="2">2</passion>
+		</passions>
+	</opportunity>	
+	
+	<!--11th grade-->
+	<opportunity index="40">
+		<name>Learn How to DJ</name>
+		<shortDescription>Teach yourself how to DJ.</shortDescription>
+		<longDescription>Teach yourself how to DJ.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="2">0</skill>
+			<skill level="4">3</skill>
+			<skill level="3">4</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>	
+
+	<opportunity index="41">
+		<name>Volunteer at a Museum</name>
+		<shortDescription>Volunteer at a local art museum.</shortDescription>
+		<longDescription>Volunteer at a local art museum.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="3">1</skill>
+			<skill level="4">3</skill>
+			<skill level="4">2</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>		
+	
+	<opportunity index="42">
+		<name>Work at a Pool</name>
+		<shortDescription>Work part time as a lifeguard.</shortDescription>
+		<longDescription>Work part time as a lifeguard.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="3">1</skill>
+			<skill level="4">2</skill>
+		</skills>
+		<passions>
+			<passion level="2">1</passion>
+			<passion level="2">2</passion>
+		</passions>
+	</opportunity>		
+	
+	<opportunity index="43">
+		<name>Work at a Camp</name>
+		<shortDescription>Work part time as a camp counselor.</shortDescription>
+		<longDescription>Work part time as a camp counselor.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="5">1</skill>
+			<skill level="4">2</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>		
+	
+	<opportunity index="44">
+		<name>Make a Movie</name>
+		<shortDescription>Make a digital movie with your friends.</shortDescription>
+		<longDescription>Make a digital movie with your friends.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="4">1</skill>
+			<skill level="5">3</skill>
+			<skill level="4">2</skill>
+			<skill level="3">4</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>		
+	
+	<opportunity index="45">
+		<name>Fix a Car</name>
+		<shortDescription>Fix up a broken car.</shortDescription>
+		<longDescription>Fix up a broken car.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="5">0</skill>
+			<skill level="2">3</skill>
+			<skill level="4">4</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>	
+	
+	<opportunity index="46">
+		<name>Set Up a Fishtank</name>
+		<shortDescription>Set up a 20 gallon fishtank.</shortDescription>
+		<longDescription>Set up a 20 gallon fishtank.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="3">0</skill>
+			<skill level="2">3</skill>
+			<skill level="3">4</skill>
+		</skills>
+		<passions>
+			<passion skill="4">0</passion>
+		</passions>
+	</opportunity>	
+	
+	<opportunity index="47">
+		<name>Launch a Rocket</name>
+		<shortDescription>Build and launch a model rocket.</shortDescription>
+		<longDescription>Build and launch a model rocket.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="4">0</skill>
+			<skill level="2">3</skill>
+			<skill level="4">4</skill>
+		</skills>
+		<passions>
+			<passion skill="4">0</passion>
+		</passions>
+	</opportunity>	
+	
+	<opportunity index="48">
+		<name>Join the Marching Band</name>
+		<shortDescription>Play in the school marching band.</shortDescription>
+		<longDescription>Play in the school marching band.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="4">1</skill>
+			<skill level="3">3</skill>
+			<skill level="3">2</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>	
+	
+	<opportunity index="49">
+		<name>Take Pottery Classes</name>
+		<shortDescription>Take pottery classes at a local pottery workshop.</shortDescription>
+		<longDescription>Take pottery classes at a local pottery workshop.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="4">3</skill>
+			<skill level="2">4</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>
+	
+	<!--12th grade-->
+	<opportunity index="50">
+		<name>Travel to Europe</name>
+		<shortDescription>Travel to Europe with your friends.</shortDescription>
+		<longDescription>Travel to Europe with your friends.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="2">1</skill>
+			<skill level="2">3</skill>
+			<skill level="8">2</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="51">
+		<name>Make an Animation</name>
+		<shortDescription>Create a short animated film.</shortDescription>
+		<longDescription>Create a short animated film.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="2">0</skill>
+			<skill level="5">3</skill>
+			<skill level="2">2</skill>
+			<skill level="3">4</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="52">
+		<name>Construct a Terrarium</name>
+		<shortDescription>Construct a terrarium holding all sorts of plant life.</shortDescription>
+		<longDescription>Construct a terrarium holding all sorts of plant life.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="2">0</skill>
+			<skill level="5">3</skill>
+			<skill level="2">2</skill>
+			<skill level="3">4</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="53">
+		<name>Volunteer at an Animal Hospital</name>
+		<shortDescription>Volunteer at a local animal hospital.</shortDescription>
+		<longDescription>Volunteer at a local animal hospital.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="4">0</skill>
+			<skill level="4">1</skill>
+			<skill level="3">4</skill>
+		</skills>
+		<passions>
+			<passion level="8">0</passion>
+			<passion level="2">1</passion>
+			<passion level="5">2</passion>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="54">
+		<name>Learn Elvish</name>
+		<shortDescription>Teach yourself Elvish, a fictional language.</shortDescription>
+		<longDescription>Teach yourself Elvish, a fictional language.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="2">3</skill>
+			<skill level="4">2</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="55">
+		<name>Start a Band</name>
+		<shortDescription>Start a band with your friends.</shortDescription>
+		<longDescription>Start a band with your friends.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="4">1</skill>
+			<skill level="5">3</skill>
+			<skill level="5">2</skill>
+			<skill level="2">4</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="56">
+		<name>Install a Solar Panel</name>
+		<shortDescription>Set up a solar panel on the roof of your house.</shortDescription>
+		<longDescription>Set up a solar panel on the roof of your house.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="5">0</skill>
+			<skill level="8">4</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="57">
+		<name>Make a Website</name>
+		<shortDescription>Make a website about a subject you enjoy.</shortDescription>
+		<longDescription>Make a website about a subject you enjoy.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="4">0</skill>
+			<skill level="3">3</skill>
+			<skill level="3">2</skill>
+			<skill level="5">4</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="58">
+		<name>Volunteer at a Library</name>
+		<shortDescription>Volunteer at your local library.</shortDescription>
+		<longDescription>Volunteer at your local library.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<!--	<skill level="0">0</skill>	-->
+			<skill level="3">1</skill>
+			<skill level="3">3</skill>
+			<skill level="4">2</skill>
+			<skill level="2">4</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="59">
+		<name>Play Billiards</name>
+		<shortDescription>Become an expert at billiards.</shortDescription>
+		<longDescription>Become an expert at billiards.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="2">0</skill>
+			<skill level="3">3</skill>
+			<skill level="2">2</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>
+	
+	<!--C1-->
+	<opportunity index="60">
+		<name>Work as a Tour Guide</name>
+		<shortDescription>Work as a student tour guide.</shortDescription>
+		<longDescription>Work as a student tour guide.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="3">1</skill>
+			<skill level="4">2</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="61">
+		<name>Play Ping-Pong</name>
+		<shortDescription>Become a ping-pong champion.</shortDescription>
+		<longDescription>Become a ping-pong champion.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="2">0</skill>
+			<skill level="2">1</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="62">
+		<name>Hike a National Park</name>
+		<shortDescription>Hike all the trails of a local national park.</shortDescription>
+		<longDescription>Hike all the trails of a local national park.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="3">3</skill>
+		</skills>
+		<passions>
+			<passion level="4">0</passion>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="63">
+		<name>Work as a Biology TA</name>
+		<shortDescription>TA for your biology professor.</shortDescription>
+		<longDescription>TA for your biology professor.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="5">0</skill>
+			<skill level="3">1</skill>
+			<skill level="3">2</skill>
+			<skill level="2">4</skill>
+		</skills>
+		<passions>
+			<passion level="2">0</passion>
+			<passion level="3">1</passion>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="64">
+		<name>Start a Video Game Club</name>
+		<shortDescription>Start a video game enthusiast club.</shortDescription>
+		<longDescription>Start a video game enthusiast club.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="2">0</skill>
+			<skill level="3">1</skill>
+			<skill level="4">2</skill>
+			<skill level="4">4</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="65">
+		<name>Row Crew</name>
+		<shortDescription>Join the crew team.</shortDescription>
+		<longDescription>Join the crew team.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="5">1</skill>
+			<skill level="3">2</skill>
+		</skills>
+		<passions>
+			<passion level="2">2</passion>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="66">
+		<name>Join the Animal Rights Association</name>
+		<shortDescription>Become an active member in the school animal rights association.</shortDescription>
+		<longDescription>Become an active member in the school animal rights association.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="3">0</skill>
+			<skill level="4">1</skill>
+			<skill level="4">2</skill>
+		</skills>
+		<passions>
+			<passion level="5">0</passion>
+			<passion level="3">1</passion>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="67">
+		<name>Build an RC Airplane</name>
+		<shortDescription>Build an RC airplane.</shortDescription>
+		<longDescription>Build an RC airplane.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="5">0</skill>
+			<skill level="2">3</skill>
+			<skill level="5">4</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="68">
+		<name>Work at the Cafeteria</name>
+		<shortDescription>Get a job in the cafeteria.</shortDescription>
+		<longDescription>Get a job in the cafeteria.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="4">1</skill>
+			<skill level="4">2</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="69">
+		<name>Start a Restaurant Blog</name>
+		<shortDescription>Start a restaurant review blog.</shortDescription>
+		<longDescription>Start a restaurant review blog.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="2">0</skill>
+			<skill level="4">3</skill>
+			<skill level="5">2</skill>
+			<skill level="3">4</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>
+	
+	<!--C2-->
+	<opportunity index="70">
+		<name>Start a Campaign</name>
+		<shortDescription>Campaign for a seat in the student government.</shortDescription>
+		<longDescription>Campaign for a seat in the student government.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="3">0</skill>
+			<skill level="4">1</skill>
+			<skill level="2">3</skill>
+			<skill level="5">2</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="71">
+		<name>Party</name>
+		<shortDescription>Throw weekly parties at your apartment.</shortDescription>
+		<longDescription>Throw weekly parties at your apartment.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="2">0</skill>
+			<skill level="4">1</skill>
+			<skill level="2">2</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="72">
+		<name>Work as an RA</name>
+		<shortDescription>Become a dormitory RA.</shortDescription>
+		<longDescription>Become a dormitory RA.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="2">0</skill>
+			<skill level="4">1</skill>
+			<skill level="2">3</skill>
+			<skill level="4">2</skill>
+		</skills>
+		<passions>
+			<passion level="4">1</passion>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="73">
+		<name>Enter an Eating Competition</name>
+		<shortDescription>Train for an eating competition.</shortDescription>
+		<longDescription>Train for an eating competition.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="2">0</skill>
+			<skill level="2">3</skill>
+		</skills>
+		<passions>
+			<passion level="2">2</passion>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="74">
+		<name>Play Volleyball</name>
+		<shortDescription>Join an intramural volleyball team .</shortDescription>
+		<longDescription>Join an intramural volleyball team .</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="5">1</skill>
+			<skill level="4">2</skill>
+		</skills>
+		<passions>
+			<passion level="2">2</passion>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="75">
+		<name>Work at the Newspaper</name>
+		<shortDescription>Get a writing job at the school newspaper.</shortDescription>
+		<longDescription>Get a writing job at the school newspaper.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="4">1</skill>
+			<skill level="5">3</skill>
+			<skill level="5">2</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="76">
+		<name>Work as a Receptionist</name>
+		<shortDescription>Work as a receptionist at a local Vet's office.</shortDescription>
+		<longDescription>Work as a receptionist at a local Vet's office.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="3">0</skill>
+			<skill level="4">1</skill>
+			<skill level="3">2</skill>
+			<skill level="2">4</skill>
+		</skills>
+		<passions>
+			<passion level="8">0</passion>
+			<passion level="5">1</passion>
+			<passion level="8">2</passion>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="77">
+		<name>Enter a Game Competition</name>
+		<shortDescription>Enter a fighting game competetion.</shortDescription>
+		<longDescription>Enter a fighting game competetion.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="3">0</skill>
+			<skill level="2">1</skill>
+			<skill level="2">2</skill>
+			<skill level="2">4</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="78">
+		<name>Visit the Autoshow</name>
+		<shortDescription>Visit a classic car autoshow.</shortDescription>
+		<longDescription>Visit a classic car autoshow.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="5">3</skill>
+			<skill level="2">2</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="79">
+		<name>Take up Scuba-Diving</name>
+		<shortDescription>Take scuba-diving lessons at the local pool.</shortDescription>
+		<longDescription>Take scuba-diving lessons at the local pool.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="3">0</skill>
+			<skill level="3">1</skill>
+			<skill level="3">4</skill>
+		</skills>
+		<passions>
+			<passion level="2">2</passion>
+		</passions>
+	</opportunity>
+	
+	<!--C3-->
+	<opportunity index="80">
+		<name>Pledge</name>
+		<shortDescription>Pledge to a fraternity/sorority.</shortDescription>
+		<longDescription>Pledge to a fraternity/sorority.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="5">1</skill>
+			<skill level="5">2</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="81">
+		<name>Rehabilitate an Animal</name>
+		<shortDescription>Nurse a sick animal back to health.</shortDescription>
+		<longDescription>Nurse a sick animal back to health.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="7">0</skill>
+			<skill level="2">1</skill>
+			<skill level="2">3</skill>
+		</skills>
+		<passions>
+			<passion level="10">0</passion>
+			<passion level="8">1</passion>
+			<passion level="10">2</passion>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="82">
+		<name>Write a Program</name>
+		<shortDescription>Write a program that monitors processor heat.</shortDescription>
+		<longDescription>Write a program that monitors processor heat.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="5">0</skill>
+			<skill level="2">3</skill>
+			<skill level="5">4</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="83">
+		<name>Knit a Sweater</name>
+		<shortDescription>Knit a warm, soft sweater.</shortDescription>
+		<longDescription>Knit a warm, soft sweater.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="3">0</skill>
+			<skill level="3">3</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="84">
+		<name>Join an Internet Forum</name>
+		<shortDescription>Become an active member in an internet forum.</shortDescription>
+		<longDescription>Become an active member in an internet forum.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="3">1</skill>
+			<skill level="4">2</skill>
+			<skill level="2">4</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="85">
+		<name>Play Frisbee</name>
+		<shortDescription>Join the ultimate Frisbee team.</shortDescription>
+		<longDescription>Join the ultimate Frisbee team.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="5">1</skill>
+			<skill level="4">2</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="86">
+		<name>Fix Up a Motorcycle</name>
+		<shortDescription>Fix up a broken, old motorcycle.</shortDescription>
+		<longDescription>Fix up a broken, old motorcycle.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="5">0</skill>
+			<skill level="2">3</skill>
+			<skill level="4">4</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="87">
+		<name>Remix a Popular Song</name>
+		<shortDescription>Remix one of your favorite popular songs.</shortDescription>
+		<longDescription>Remix one of your favorite popular songs.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="5">3</skill>
+			<skill level="3">2</skill>
+			<skill level="4">4</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="88">
+		<name>Raise Cancer Awareness</name>
+		<shortDescription>Spearhead a breast-cancer awareness fundraiser.</shortDescription>
+		<longDescription>Spearhead a breast-cancer awareness fundraiser.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="3">0</skill>
+			<skill level="4">1</skill>
+			<skill level="3">3</skill>
+			<skill level="5">2</skill>
+		</skills>
+		<passions>
+			<passion level="4">2</passion>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="89">
+		<name>Start a Stock Portfolio</name>
+		<shortDescription>Create a stock portfolio.</shortDescription>
+		<longDescription>Create a stock portfolio.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="4">0</skill>
+			<skill level="3">3</skill>
+			<skill level="3">4</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>
+	
+	<!--C4-->
+	<opportunity index="90">
+		<name>Become a Big Brother/Sister</name>
+		<shortDescription>Become a big brother/sister.</shortDescription>
+		<longDescription>Become a big brother/sister.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="5">1</skill>
+			<skill level="5">2</skill>
+		</skills>
+		<passions>
+			<passion level="5">1</passion>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="91">
+		<name>Find Healthy Recipes</name>
+		<shortDescription>Compile a list of healthy recipes.</shortDescription>
+		<longDescription>Compile a list of healthy recipes.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="3">0</skill>
+			<skill level="2">3</skill>
+		</skills>
+		<passions>
+			<passion level="3">2</passion>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="92">
+		<name>Work as a Technician</name>
+		<shortDescription>Work on campus as a projector technician.</shortDescription>
+		<longDescription>Work on campus as a projector technician.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="4">0</skill>
+			<skill level="3">1</skill>
+			<skill level="3">2</skill>
+			<skill level="4">4</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="93">
+		<name>Go to Math Study Sessions</name>
+		<shortDescription>Attend math group study sessions.</shortDescription>
+		<longDescription>Attend math group study sessions.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="5">0</skill>
+			<skill level="3">0</skill>
+			<skill level="3">0</skill>
+		</skills>
+		<passions>
+			<passion level="2">1</passion>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="94">
+		<name>Take Care of a Friend's Dog</name>
+		<shortDescription>Take care of your friends dog while they are away,</shortDescription>
+		<longDescription>Take care of your friends dog while they are away,</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="2">1</skill>
+			<skill level="2">2</skill>
+		</skills>
+		<passions>
+			<passion level="3">0</passion>
+			<passion level="4">1</passion>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="95">
+		<name>Start a Bacterial Culture</name>
+		<shortDescription>Create and analyze a bacterial culture in your kitchen.</shortDescription>
+		<longDescription>Create and analyze a bacterial culture in your kitchen.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="3">0</skill>
+			<skill level="2">3</skill>
+			<skill level="2">4</skill>
+		</skills>
+		<passions>
+			<passion level="3">2</passion>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="96">
+		<name>Start a T-Shirt Business</name>
+		<shortDescription>Start a business selling t-shirts.</shortDescription>
+		<longDescription>Start a business selling t-shirts.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="4">0</skill>
+			<skill level="4">1</skill>
+			<skill level="4">3</skill>
+			<skill level="4">2</skill>
+			<!--	<skill level="0">0</skill>	-->
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="97">
+		<name>Mod a Game</name>
+		<shortDescription>Mod a popular multiplayer game.</shortDescription>
+		<longDescription>Mod a popular multiplayer game.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="4">0</skill>
+			<skill level="2">1</skill>
+			<skill level="4">1</skill>
+			<skill level="4">4</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="98">
+		<name>Hack a Database</name>
+		<shortDescription>Learn how to hack into a database.</shortDescription>
+		<longDescription>Learn how to hack into a database.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="5">0</skill>
+			<skill level="3">3</skill>
+			<skill level="5">4</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="99">
+		<name>Start a Garden</name>
+		<shortDescription>Start a garden in a local community plot of land.</shortDescription>
+		<longDescription>Start a garden in a local community plot of land.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="3">0</skill>
+			<skill level="5">1</skill>
+			<skill level="2">3</skill>
+			<skill level="4">2</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>
+	
+	<!--EVENTS-->
+	<opportunity index="100">
+		<name>Visit a Museum</name>
+		<shortDescription>Visit the Museum of Natural History on a field trip with your class.</shortDescription>
+		<longDescription>Visit the Museum of Natural History on a field trip with your class.</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="3">2</skill>
+			<skill level="3">4</skill>
+		</skills>
+		<passions>
+			<passion level="5">0</passion>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="101">
+		<name>Middle-School Graduation</name>
+		<shortDescription>Time to move on up to high-school!</shortDescription>
+		<longDescription>Time to move on up to high-school!</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="5">2</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="102">
+		<name>High-School Graduation</name>
+		<shortDescription>College, here you come!</shortDescription>
+		<longDescription>College, here you come!</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="5">2</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="103">
+		<name>Campus Fair</name>
+		<shortDescription>Everyone's out and about. Have fun!</shortDescription>
+		<longDescription>Everyone's out and about. Have fun!</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="3">2</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>
+	
+	<opportunity index="104">
+		<name>College Graduation</name>
+		<shortDescription>Hope you're ready to enter the "real" world...</shortDescription>
+		<longDescription>Hope you're ready to enter the "real" world...</longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level="5">2</skill>
+		</skills>
+		<passions>
+		</passions>
+	</opportunity>
+	
+	<!--<opportunity index="">
+		<name></name>
+		<shortDescription></shortDescription>
+		<longDescription></longDescription>
+		<url></url>
+		<icon></icon>
+		<skills>
+			<skill level=""></skill>
+		</skills>
+		<passions>
+			<passion level=""></skill>
+		</passions>
+	</opportunity>-->
+	
+</opportunities>

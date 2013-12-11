@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<levels>
+	<level profession="vetinatrian">
+		<name>Veterinary</name>
+		<shortDescription>A veterinarian will examine him.</shortDescription>
+		<longDescription>If Fuzzy seems under the weather, a veterinarian will examine him, diagnose, and treat the problem. .</longDescription>
+		<icon>vetIcon</icon>
+		<experienceLevel>3</experienceLevel>
+		<educationDegree>Veterinary Degree</educationDegree>
+		<educationMajor></educationMajor>
+		<url></url>
+		
+		<rounds>
+			<round name="7th grade"type="school">
+				<oppertunity>
+					<name>Attend a Maker Faire</name>
+					<description>A maker faire is opening up in your town! You decide to check it out one weekend</description>
+					
+					<skills>
+						<skill level="+5">Science</skill>
+						<skill level="+3">Math</skill>
+						<skill level="+2">Social</skill>
+					</skills>
+					
+					<passions>
+						<passion level="+2">Working with your hands</passion>
+						<passion level="+1">Community building</passion>
+					</passions>
+				</oppertunity>
+				
+				<oppertunity>
+					<name>Work at a Coffee Shop</name>
+					<description>You a coffee shop just opened around the corner from your house. You could use the extra money and experience.</description>
+					<skills>
+						<skill level="+2">Math</skill>
+						<skill level="+5">Social</skill>
+					</skills>
+					
+					<passions>
+						<passion level="+4">Money making</passion>
+					</passions>
+				</oppertunity>
+				
+				<oppertunity>
+					<name>Study an extra hour for Bio</name>
+					<description>Study an extra hour for biology</description>
+					<skills>
+						<skill level="+2">Science</skill>
+					</skills>
+					
+					<grades>
+						<grade level="+1">science</science>
+					</grades>
+				</oppertunity>
+				
+				<choicePoint>
+					<question>You passed the 8th grade! Which track do you wish to take for the next grade?</question>
+					<choices>
+						<choice transitionRound="8th grade AP">
+							<name>Take normal track. You will get less experience, but have more free time.</name>
+							<skills>
+								<skill level="5">Math<skill>
+							</skills>
+							<grade>
+								<MathGrade>A</MathGrade>
+							</skills>
+						</choice>
+						
+						<choice transitionRound="8th grade Normal">
+							<name>Take normal track. You will get less experience, but have more free time.</name>
+							<skills>
+								<skill level=1>Math<skill>
+							</skills>
+							<grade>
+								<MathGrade>C</MathGrade>
+							</skills>
+						</choice>
+			
+					</choices>
+				<choicePoint>
+			</round>
+			
+			<round name="8th grade AP" type="school">
+				....
+			</round>
+			
+			<round name="8th grade Normal" type="school">
+				....
+			</round>
+			
+			<round name="Vetinatrian internship" type="work">
+								
+				<choicePoint>
+					<question>You have a paper due or you could go out on a date!</question>
+					<choices>
+						<choice>
+							<name>Take the date.</name>
+							<skills>
+								<skill level="+2">Social<skill>
+							</skills>
+						</choice>
+						
+						<choice>
+							<name>Do the paper.</name>
+							<skills>
+								<skill level="+3">Science<skill>
+							</skills>
+						</choice>			
+					</choices>
+				</choicePoint>
+				
+				<choicePoint>
+					<question>Submit a paper or work on it longer!</question>
+					<choices>
+						<choice>
+							<name>Submit now!</name>
+							<skills>
+								<skill level="+4">Science<skill>
+							</skills>
+						</choice>
+						
+						<choice>
+							<name>Talk to your advisor</name>
+							<skills>
+								<skill level="+2">Social<skill>
+							</skills>
+						</choice>			
+					</choices>
+				</choicePoint>
+			</round>
+		</rounds>
+	</level>
+</levels>

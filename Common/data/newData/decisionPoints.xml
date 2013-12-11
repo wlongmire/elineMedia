@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<decisionPoints>
+	
+	<decisionPoint index='0'>
+		<name>Math - Choose One Option</name>
+		<description></description>
+		<choices>
+			<choice highlighted='false'>
+				<name>Take Advanced Math</name>
+				<description>Requires a B or above in Math</description>
+				<requirements>					
+					<requirement>0</requirement>
+				</requirements>
+				<rollover>Advanced Math classes include Algebra and Geometry</rollover>
+			</choice>
+			<choice highlighted='false'>
+				<name>Take Standard Math</name>
+				<description>No Requirements</description>
+				<requirements></requirements>
+				<rollover>Standard Math classes include Pre-Algebra</rollover>
+			</choice>
+		</choices>
+	</decisionPoint>
+	
+	<decisionPoint index='1'>
+		<name>Math - Choose One Option</name>
+		<description></description>
+		<choices>
+			<choice highlighted='false'>
+				<name>Take Advanced Math</name>
+				<description>Requires a B or above in Math</description>
+				<requirements>
+					<requirement>0</requirement>
+				</requirements>
+				<rollover>4 Years of Honors and AP Math classes including Trigonometry and Calculus</rollover>
+			</choice>
+			<choice highlighted='false'>
+				<name>Take Standard Math</name>
+				<description>Requires a C or above in Math</description>
+				<requirements>
+					<requirement>1</requirement>
+				</requirements>
+				<rollover>Standard Math classes include Algebra, Geometry and Trigonometry</rollover>
+			</choice>
+			<choice highlighted='false'>
+				<name>Take Basic Math</name>
+				<description>No Requirements</description>
+				<requirements></requirements>
+				<rollover>Basic Math included Algebra and Geometry, needed to graduate High School</rollover>
+			</choice>
+		</choices>
+	</decisionPoint>
+	
+	<decisionPoint index='2'>
+		<name>Science - Choose One Option</name>
+		<description></description>
+		<choices>
+			<choice highlighted='false'>
+				<name>Take Advanced Science</name>
+				<description>Requires a B or above in Math</description>
+				<requirements>
+					<requirement>0</requirement>
+				</requirements>
+				<rollover>4 Years of Honors and AP Math classes including Trigonometry and Calculus</rollover>
+			</choice>
+			<choice highlighted='false'>
+				<name>Take Standard Science</name>
+				<description>Requires a C or above in Math</description>
+				<requirements>
+					<requirement>1</requirement>
+				</requirements>
+				<rollover>Standard Math classes include Algebra, Geometry and Trigonometry</rollover>
+			</choice>
+			<choice highlighted='false'>
+				<name>Take Basic Science</name>
+				<description>No Requirements</description>
+				<requirements></requirements>
+				<rollover>Basic Math included Algebra and Geometry, needed to graduate High School</rollover>
+			</choice>
+		</choices>
+	</decisionPoint>
+	
+	<decisionPoint index='3'>
+		<name>Higher Education - Choose One Option</name>
+		<description>The courses you took and grades you got determine what colleges you can get into.</description>
+		<choices>
+			<choice highlighted='false'>
+				<name>Top Engineering School</name>
+				<description>Requires an A in both Math and Science</description>
+				<requirements>
+					<requirement>4</requirement>
+				</requirements>
+				<rollover></rollover>
+			</choice>
+			<choice highlighted='false'>
+				<name>Engineering School</name>
+				<description>Requires an A in Math and a B or Better in Science</description>
+				<requirements>
+					<requirement>4</requirement>
+				</requirements>
+				<rollover></rollover>
+			</choice>
+			<choice highlighted='false'>
+				<name>Top Liberal Arts School</name>
+				<description>Requires a B or better in Math and Science</description>
+				<requirements>
+					<requirement>6</requirement>
+				</requirements>
+				<rollover></rollover>
+			</choice>
+			<choice highlighted='false'>
+				<name>Liberal Arts School</name>
+				<description>No Requirements</description>
+				<requirements></requirements>
+				<rollover></rollover>	
+			</choice>
+			<!--<choice highlighted='false'>
+				<name>Community College</name>
+				<description>No Requirements</description>
+				<requirements></requirements>
+				<rollover></rollover>
+			</choice>
+			<choice highlighted='false'>
+				<name>Vocational School</name>
+				<description>No Requirements</description>
+				<requirements></requirements>
+				<rollover></rollover>
+			</choice>-->
+		</choices>
+	</decisionPoint>
+	
+	<decisionPoint index='4'>
+		<name>College Major - Choose One Option</name>
+		<description>The most common majors for Veterinarians are highlighted below.</description>
+		<choices>
+			<choice highlighted='true'>
+				<name>Animal Science</name>
+				<rollover></rollover>
+			</choice>
+			<choice highlighted='false'>
+				<name>Biochemistry</name>
+				<rollover></rollover>
+			</choice>
+			<choice highlighted='true'>
+				<name>Biology</name>
+				<rollover></rollover>
+			</choice>
+			<choice highlighted='false'>
+				<name>Chemistry</name>
+				<rollover></rollover>
+			</choice>
+			<choice highlighted='false'>
+				<name>Ecology</name>
+				<rollover></rollover>
+			</choice>
+			<choice highlighted='false'>
+				<name>Finance</name>
+				<rollover></rollover>
+			</choice>
+			<choice highlighted='false'>
+				<name>Mathematics</name>
+				<rollover></rollover>
+			</choice>
+			<choice highlighted='false'>
+				<name>Microbiology</name>
+				<rollover></rollover>
+			</choice>
+			<choice highlighted='false'>
+				<name>Physics</name>
+				<rollover></rollover>
+			</choice>
+			<choice highlighted='true'>
+				<name>Pre-Veterinary</name>
+				<rollover></rollover>
+			</choice>
+			<choice highlighted='false'>
+				<name>Wildlife</name>
+				<rollover></rollover>
+			</choice>
+			<choice highlighted='true'>
+				<name>Zoology</name>
+				<rollover></rollover>
+			</choice>
+		</choices>
+	</decisionPoint>
+	
+	<decisionPoint index='5'>
+		<name>Choose what you want to do after graduation!</name>
+		<description></description>
+		<choices>
+			<choice highlighted='false'>
+				<name>Go to Veterinary School</name>
+				<description></description>
+				<requirements>
+					<!--<requirement>8</requirement>
+					<requirement>9</requirement>
+					<requirement>10</requirement>
+					<requirement>11</requirement>-->
+				</requirements>
+				<rollover></rollover>
+			</choice>
+			<!--<choice highlighted='false'>
+				<name>Become a Veterinary Technician Assistant</name>
+				<description></description>
+				<requirements>
+					<requirement>8</requirement>
+					<requirement>9</requirement>
+				</requirements>
+				<benefits>
+					<passion index='0' value='10' />
+					<passion index='1' value='3' />
+					<passion index='2' value='8' />
+					<skill index='0' value='2' />
+					<skill index='1' value='1' />
+					<skill index='2' value='4' />
+					<skill index='3' value='1' />
+					<skill index='4' value='6' />
+				</benefits>
+				<rollover></rollover>
+			</choice>
+			<choice highlighted='false'>
+				<name>Animal Research Technician</name>
+				<description></description>
+				<requirements></requirements>
+				<requirements></requirements>
+				<requirements>
+					<requirement>8</requirement>
+					<requirement>9</requirement>
+				</requirements>
+				<benefits>
+					<passion index='0' value='10' />
+					<passion index='1' value='3' />
+					<passion index='2' value='8' />
+					<skill index='0' value='2' />
+					<skill index='1' value='1' />
+					<skill index='2' value='4' />
+					<skill index='3' value='1' />
+					<skill index='4' value='6' />
+				</benefits>
+				<rollover></rollover>
+			</choice>
+			<choice highlighted='false'>
+				<name>Wildlife Extern</name>
+				<description></description>
+				<requirements></requirements>
+				<requirements></requirements>
+				<benefits>
+					<passion index='0' value='10' />
+					<passion index='1' value='3' />
+					<passion index='2' value='8' />
+					<skill index='0' value='2' />
+					<skill index='1' value='1' />
+					<skill index='2' value='4' />
+					<skill index='3' value='1' />
+					<skill index='4' value='6' />
+				</benefits>
+				<requirements>
+					<requirement>8</requirement>
+					<requirement>9</requirement>
+				</requirements>
+				<rollover></rollover>
+			</choice>
+			<choice highlighted='false'>
+				<name>Veterinary Technician</name>
+				<description></description>
+				<requirements>13</requirements>
+				<benefits>
+					<passion index='0' value='10' />
+					<passion index='1' value='3' />
+					<passion index='2' value='8' />
+					<skill index='0' value='4' />
+					<skill index='1' value='3' />
+					<skill index='2' value='6' />
+					<skill index='3' value='1' />
+					<skill index='4' value='8' />
+				</benefits>
+				<rollover></rollover>
+			</choice>
+			<choice highlighted='false'>
+				<name>Become a wage-slave</name>
+				<description></description>
+				<requirements>12</requirements>
+				<rollover></rollover>
+			</choice>-->
+		</choices>
+	</decisionPoint>
+	
+	<decisionPoint index='6'>
+		<name>Are you ready to go to Veterinary school?</name>
+		<description></description>
+		<choices>
+			<choice highlighted='false'>
+				<name>Veterinary School</name>
+				<requirements>
+					<!--<requirement>11</requirement>
+					<requirement>8</requirement>
+					<requirement>9</requirement>
+					<requirement>10</requirement>-->
+				</requirements>
+				<rollover></rollover>
+			</choice>
+			<choice highlighted='false'>
+				<name>Work another year</name>
+				<description></description>
+				<requirements></requirements>
+				<rollover></rollover>
+			</choice>
+		</choices>
+	</decisionPoint>
+	
+	<decisionPoint index='7'>
+		<name>Which State do you want to get your certification in?</name>
+		<description></description>
+		<choices>
+			<choice highlighted='false'>
+				<name>NY</name>
+				<description>New York</description>
+				<requirements></requirements>
+				<rollover>New York</rollover>
+			</choice>
+			<choice highlighted='false'>
+				<name>AK</name>
+				<description>Alaska</description>
+				<requirements></requirements>
+				<rollover>Alaska</rollover>
+			</choice>
+		</choices>
+	</decisionPoint>
+	
+	<decisionPoint index='8'>
+		<name>Now that you're certified, what do you want to do?</name>
+		<description>Becoming an Associate Veterinarian is the next step towards becoming a practicing Veterinarian!</description>
+		<choices>
+			<choice highlighted='true'>
+				<name>Become an Associate Veterinarian</name>
+				<description></description>
+				<requirements>14</requirements>
+				<benefits>
+					<passion index='0' value='10' />
+					<passion index='1' value='3' />
+					<passion index='2' value='8' />
+					<skill index='0' value='5' />
+					<skill index='1' value='4' />
+					<skill index='2' value='8' />
+					<skill index='3' value='2' />
+					<skill index='4' value='4' />
+				</benefits>
+				<rollover></rollover>
+			</choice>
+		</choices>
+	</decisionPoint>
+	
+	<decisionPoint index='9'>
+		<name>Become a practicing Veterinarian</name>
+		<choices>
+			<choice highlighted='true'>
+				<name>Become a Vet</name>
+				<description></description>
+				<experienceLevel>3</experienceLevel>
+				<!--<requirements>13</requirements>-->
+				<benefits>
+					<passion index='0' value='10' />
+					<passion index='1' value='3' />
+					<passion index='2' value='8' />
+					<skill index='0' value='5' />
+					<skill index='1' value='4' />
+					<skill index='2' value='8' />
+					<skill index='3' value='2' />
+					<skill index='4' value='4' />
+				</benefits>
+				<rollover></rollover>
+			</choice>
+			<!--<choice highlighted='false'>
+				<name>Continue working at your current job</name>
+				<description></description>
+				<rollover></rollover>
+			</choice>-->
+		</choices>
+	</decisionPoint>
+	
+	<decisionPoint index='10'>
+		<name>Congratulations!</name>
+		<description>You've acheived your lifelong dream of becoming a Veterinarian!</description>
+		<choices>
+			<choice highlighted='true'>
+				<name>Finish</name>
+				<description></description>
+				<rollover></rollover>
+			</choice>
+		</choices>
+	</decisionPoint>
+
+	<decisionPoint index='11'>
+		<name>Sorry...</name>
+		<description>Looks like you won't be a Veterinarian anytime soon. You should have kept those grades up!</description>
+		<choices>
+			<choice highlighted='true'>
+				<name>Finish</name>
+				<description></description>
+				<rollover></rollover>
+			</choice>
+		</choices>
+	</decisionPoint>
+	
+	<decisionPoint index='12'>
+		<name>Become a Veterinary Technician</name>
+		<description>After graduating from a Community College or Vocational School with a Veterinary Technician Associate Degree, it looks like your only option is to become a Veterinary Technician.</description>
+		<choices>
+			<choice highlighted='true'>
+				<name>Become a Veterinary Technician</name>
+				<description></description>
+				<requirements>15</requirements>
+				<benefits>
+					<passion index='0' value='10' />
+					<passion index='1' value='3' />
+					<passion index='2' value='8' />
+					<skill index='0' value='4' />
+					<skill index='1' value='3' />
+					<skill index='2' value='6' />
+					<skill index='3' value='1' />
+					<skill index='4' value='8' />
+				</benefits>
+				<rollover></rollover>
+			</choice>
+		</choices>
+	</decisionPoint>
+	
+	<decisionPoint index='13'>
+		<name>Sorry...</name>
+		<description>Becoming a Veterinary Technician is almost as good as becoming a Veterinarian, but not quite...</description>
+		<choices>
+			<choice highlighted='true'>
+				<name>Finish</name>
+				<description></description>
+				<rollover></rollover>
+			</choice>
+		</choices>
+	</decisionPoint>
+	
+</decisionPoints>

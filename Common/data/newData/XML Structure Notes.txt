@@ -1,0 +1,46 @@
+General Notes/Questions
+----------------------------------------------
+-Skills don't have a cap and have incremental thresholds
+-Passions cap at 100 (as in 100%) and are only considered had if they are at 100, so all passion threshholds are 100
+-Do we want everything that's a requirement/benefit to be in it's own data structure? i.e. Education (degree type), Certifications (licenses), etc...
+-Also, should there be a similar xml list for "benefits", like there is for "requirements"?
+-Ideally, the current opportunity.xml structure should work. I'm sending a remade list, hopefully you can plug it right in.
+
+pathways.xml
+----------------------------------------------
+-Are the "year" and "school" tags the only way we want to display information? If not, what else?
+-Would it be better to have "winState" and "failState" attributes be associated with rounds rather than decisionPoints?
+
+decisionPoints.xml
+----------------------------------------------
+<decisionPoint index='0'>
+		<name>the major heading</name>
+		<description>a longer description, not required</description>
+		<choices>
+			<choice highlighted='false'>
+				<name>the choice name, can be overwritten by using a "<professionChoice>" tag or the like</name>
+				<description>a longer desctiption, optional and overwritable</description>
+				/*
+				<requirements>0</requirements> //	single requirement
+				
+				OR
+				
+				<requirements>
+						<requirement>1</requirement> // multiple requirements
+						<requirement>2</requirement>
+				</requirements> 
+				*/
+				<rollover>optional rollover text</rollover>
+				<response>optional response spash screen text</response>
+			</choice>
+		</choices>
+	</decisionPoint>
+
+schools.xml, professions.xml, majors.xml
+----------------------------------------------
+-These hold information that may or may not be used multiple times by multiple pathways
+-The information in here can be used for choice descriptions, names, etc...
+
+requirements.xml
+----------------------------------------------
+-There are some things, like the "averageGrade" tag, which I think would be better served handled programatically rather than through scripts

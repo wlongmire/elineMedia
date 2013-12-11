@@ -1,0 +1,1 @@
+﻿package {	import flash.display.MovieClip;		public class Career_Quest extends MovieClip{		public function helloWorld() {			trace("helloWorld from Career");		}	}}

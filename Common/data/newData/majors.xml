@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<majors>
+
+	<major index='0'>
+		<name>Animal Science</name>
+		<description></description>
+	</major>
+	
+	<major index='1'>
+		<name>Biochemistry</name>
+		<description></description>
+	</major>
+	
+	<major index='2'>
+		<name>Biology</name>
+		<description></description>
+	</major>
+	
+	<major index='3'>
+		<name>Chemistry</name>
+		<description></description>
+	</major>
+	
+	<major index='4'>
+		<name>Ecology</name>
+		<description></description>
+	</major>
+	
+	<major index='5'>
+		<name>Finance</name>
+		<description></description>
+	</major>
+	
+	<major index='6'>
+		<name>Mathematics</name>
+		<description></description>
+	</major>
+	
+	<major index='7'>
+		<name>Microbiology</name>
+		<description></description>
+	</major>
+	
+	<major index='8'>
+		<name>Physics</name>
+		<description></description>
+	</major>
+	
+	<major index='9'>
+		<name>Pre-Veterinary</name>
+		<description></description>
+	</major>
+	
+	<major index='10'>
+		<name>Wildlife</name>
+		<description></description>
+	</major>
+	
+	<major index='11'>
+		<name>Zoology</name>
+		<description></description>
+	</major>
+	
+</majors>

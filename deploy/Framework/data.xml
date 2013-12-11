@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<professions>
+
+		<profession>
+			<name>3D Animator</name>
+			<degree>Bachelors</degree>
+			<description>Creates animation and visual effects for TV, movies, and videogames</description>
+			<salary>50</salary>
+			<passions>
+				<passion>0</passion>
+				<passion>1</passion>
+				<passion>2</passion>
+			</passions>
+			<skills>
+				<solveProblems>35</solveProblems>
+				<workWithTeams>70</workWithTeams>
+				<communicate>55</communicate>
+				<thinkingCreatively>100</thinkingCreatively>
+				<understandTechnology>45</understandTechnology>
+			</skills>
+		</profession>
+		<profession>
+			<name>Actuary</name>
+			<degree>Bachelors</degree>
+			<description>Analyzes the financial costs of risk and uncertainty for businesses</description>
+			<salary>110</salary>
+			<passions>
+				<passion>3</passion>
+				<passion>4</passion>
+				<passion>5</passion>
+			</passions>
+			<skills>
+				<solveProblems>75</solveProblems>
+				<workWithTeams>30</workWithTeams>
+				<communicate>50</communicate>
+				<thinkingCreatively>15</thinkingCreatively>
+				<understandTechnology>25</understandTechnology>
+			</skills>
+		</profession>
+		<profession>
+			<name>Agricultural Engineer</name>
+			<degree>Bachelors</degree>
+			<description>Applies engineering science and technology to solve agricultural production and processing challenges</description>
+			<salary>90</salary>
+			<passions>
+				<passion>6</passion>
+				<passion>7</passion>
+				<passion>8</passion>
+			</passions>
+			<skills>
+				<solveProblems>85</solveProblems>
+				<workWithTeams>20</workWithTeams>
+				<communicate>45</communicate>
+				<thinkingCreatively>15</thinkingCreatively>
+				<understandTechnology>30</understandTechnology>
+			</skills>
+		</profession>
+		<profession>
+			<name>Archaeologist</name>
+			<degree>Masters</degree>
+			<description>Studies human activity through the recovery and analysis of material that cultures leave behind</description>
+			<salary>35</salary>
+			<passions>
+				<passion>9</passion>
+				<passion>10</passion>
+				<passion>11</passion>
+			</passions>
+			<skills>
+				<solveProblems>45</solveProblems>
+				<workWithTeams>30</workWithTeams>
+				<communicate>70</communicate>
+				<thinkingCreatively>25</thinkingCreatively>
+				<understandTechnology>15</understandTechnology>
+			</skills>
+		</profession>
+		<profession>
+			<name>Athletic Trainer</name>
+			<degree>Bachelors</degree>
+			<description>Specializes in preventing, diagnosing, and treating sports-related injuries and illnesses</description>
+			<salary>70</salary>
+			<passions>
+				<passion>15</passion>
+				<passion>16</passion>
+				<passion>17</passion>
+			</passions>
+			<skills>
+				<solveProblems>30</solveProblems>
+				<workWithTeams>5</workWithTeams>
+				<communicate>75</communicate>
+				<thinkingCreatively>20</thinkingCreatively>
+				<understandTechnology>15</understandTechnology>
+			</skills>
+		</profession>
+		<profession>
+			<name>Automotive Designer</name>
+			<degree>Bachelors</degree>
+			<description>Designs cars, motorcycles, and trucks</description>
+			<salary>95</salary>
+			<passions>
+				<passion>18</passion>
+				<passion>7</passion>
+				<passion>19</passion>
+			</passions>
+			<skills>
+				<solveProblems>65</solveProblems>
+				<workWithTeams>70</workWithTeams>
+				<communicate>65</communicate>
+				<thinkingCreatively>70</thinkingCreatively>
+				<understandTechnology>25</understandTechnology>
+			</skills>
+		</profession>
+		<profession>
+			<name>Biomedical Engineer</name>
+			<degree>Bachelors</degree>
+			<description>Analyze and design solutions to problems in biology and medicine</description>
+			<salary>100</salary>
+			<passions>
+				<passion>17</passion>
+				<passion>7</passion>
+				<passion>16</passion>
+			</passions>
+			<skills>
+				<solveProblems>75</solveProblems>
+				<workWithTeams>60</workWithTeams>
+				<communicate>50</communicate>
+				<thinkingCreatively>40</thinkingCreatively>
+				<understandTechnology>65</understandTechnology>
+			</skills>
+		</profession>
+		<profession>
+			<name>Cartographer</name>
+			<degree>Bachelors</degree>
+			<description>Measures, analyzes, and interprets geographic information to create maps</description>
+			<salary>95</salary>
+			<passions>
+				<passion>17</passion>
+				<passion>4</passion>
+				<passion>13</passion>
+			</passions>
+			<skills>
+				<solveProblems>20</solveProblems>
+				<workWithTeams>35</workWithTeams>
+				<communicate>50</communicate>
+				<thinkingCreatively>25</thinkingCreatively>
+				<understandTechnology>20</understandTechnology>
+			</skills>
+		</profession>
+		<profession>
+			<name>Computer Software Developer</name>
+			<degree>Bachelors</degree>
+			<description>Designs, develops, and tests software for computers and devices</description>
+			<salary>90</salary>
+			<passions>
+				<passion>12</passion>
+				<passion>3</passion>
+				<passion>13</passion>
+			</passions>
+			<skills>
+				<solveProblems>80</solveProblems>
+				<workWithTeams>40</workWithTeams>
+				<communicate>35</communicate>
+				<thinkingCreatively>30</thinkingCreatively>
+				<understandTechnology>65</understandTechnology>
+			</skills>
+		</profession>
+		<profession>
+			<name>CAD Technician</name>
+			<degree>Bachelors</degree>
+			<description>Uses software to convert engineering designs into technical drawings and plans</description>
+			<salary>85</salary>
+			<passions>
+				<passion>12</passion>
+				<passion>3</passion>
+				<passion>13</passion>
+			</passions>
+			<skills>
+				<solveProblems>60</solveProblems>
+				<workWithTeams>30</workWithTeams>
+				<communicate>30</communicate>
+				<thinkingCreatively>20</thinkingCreatively>
+				<understandTechnology>40</understandTechnology>
+			</skills>
+		</profession>
+		<profession>
+			<name>Dental Hygienist</name>
+			<degree>Bachelors</degree>
+			<description>Cleans teeth and gums and examines patients for oral diseases</description>
+			<salary>35</salary>
+			<passions>
+				<passion>16</passion>
+				<passion>8</passion>
+				<passion>17</passion>
+			</passions>
+			<skills>
+				<solveProblems>5</solveProblems>
+				<workWithTeams>5</workWithTeams>
+				<communicate>45</communicate>
+				<thinkingCreatively>0</thinkingCreatively>
+				<understandTechnology>10</understandTechnology>
+			</skills>
+		</profession>
+		<profession>
+			<name>Veterinarian</name>
+			<degree>Doctorate</degree>
+			<description>Cares for the health of pets, livestock, and animals</description>
+			<salary>110</salary>
+			<passions>
+				<passion>14</passion>
+				<passion>16</passion>
+				<passion>17</passion>
+			</passions>
+			<skills>
+				<solveProblems>60</solveProblems>
+				<workWithTeams>15</workWithTeams>
+				<communicate>80</communicate>
+				<thinkingCreatively>25</thinkingCreatively>
+				<understandTechnology>20</understandTechnology>
+			</skills>
+		</profession>
+		
+	</professions>
+	
+<proflist>	
+<!--
+Diagnostic Medical Sonographer
+Doctor
+Ecologist
+Electrical Engineer
+Electrician
+Emergency Management Specialist
+Environmental Engineer
+Environmental Scientist 
+Epidemiologist
+Forensic Accountant
+Game Designer
+HS STEM Teacher
+Industrial Designer
+Information Security Analyst
+Landscape Architect
+Marine Biologist 
+Mathematician
+Mechanical Engineer
+Meteorologist
+Museum Conservator
+Nutritionist
+Occupational Therapist
+Pharmacist
+Physician Assistant
+Physicist
+Robotics Technician
+Solar Technician
+Sound Engineer 
+Structural Engineer
+Urban Planner 
+Veterinarian
+Video Editor
+-->
+
+</proflist>
+	
+		
+	<passions>
+
+	<passion index='0'>
+			<name>Art</name>
+			<icon>ArtIcon</icon>
+	</passion>
+	<passion index='1'>
+			<name>Visual Design</name>
+			<icon>VisualDesignIcon</icon>
+	</passion>
+	<passion index='2'>
+			<name>Media</name>
+			<icon>MediaIcon</icon>
+	</passion>
+	<passion index='3'>
+			<name>Math</name>
+			<icon>MathIcon</icon>
+	</passion>
+	<passion index='4'>
+			<name>Analyzing Data</name>
+			<icon>AnalyzingDataIcon</icon>
+	</passion>
+	<passion index='5'>
+			<name>Business</name>
+			<icon>BusinessIcon</icon>
+	</passion>
+	<passion index='6'>
+			<name>Agriculture</name>
+			<icon>AgricultureIcon</icon>
+	</passion>
+	<passion index='7'>
+			<name>Engineering</name>
+			<icon>EngineeringIcon</icon>
+	</passion>
+	<passion index='8'>
+			<name>Public Health</name>
+			<icon>PublicHealthIcon</icon>
+	</passion>
+	<passion index='9'>
+			<name>History</name>
+			<icon>HistoryIcon</icon>
+	</passion>
+	<passion index='10'>
+			<name>Research</name>
+			<icon>ResearchIcon</icon>
+	</passion>
+	<passion index='11'>
+			<name>Discovery</name>
+			<icon>DiscoveryIcon</icon>
+	</passion>
+	<passion index='12'>
+			<name>Computers</name>
+			<icon>ComputersIcon</icon>
+	</passion>
+	<passion index='13'>
+			<name>Designing Systems</name>
+			<icon>DesigningSystemsIcon</icon>
+	</passion>
+	<passion index='14'>
+			<name>Animals</name>
+			<icon>AnimalsIcon</icon>
+	</passion>
+	<passion index='15'>
+			<name>Sports</name>
+			<icon>SportsIcon</icon>
+	</passion>
+	<passion index='16'>
+			<name>Helping Others</name>
+			<icon>HelpingOthersIcon</icon>
+	</passion>
+	<passion index='17'>
+			<name>Healthcare</name>
+			<icon>HealthcareIcon</icon>
+	</passion>
+	<passion index='18'>
+			<name>Cars</name>
+			<icon>CarsIcon</icon>
+	</passion>
+	<passion index='19'>
+			<name>Building Things</name>
+			<icon>BuildingThingsIcon</icon>
+	</passion>
+	<passion index='20'>
+			<name>xx</name>
+			<icon>HealthcareIcon</icon>
+	</passion>
+	<passion index='21'>
+			<name>xx</name>
+			<icon>CarsIcon</icon>
+	</passion>
+	<passion index='22'>
+			<name>xx</name>
+			<icon>BuildingThingsIcon</icon>
+	</passion>
+	
+	
+	</passions>
+</xml>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<professions>
+
+	<profession index='0'>
+		<name>Veterinarian</name>
+		<description></description>
+		<icon>veterinarian icon</icon>
+		<experienceLevel>3</experienceLevel>
+		<educationDegree>M.S.</educationDegree>
+		<educationMajor>Mechanical Engineering</educationMajor>
+		<requirements>11</requirements>
+		<benefits>
+			<passion index='0' value='10' />
+			<passion index='1' value='3' />
+			<passion index='2' value='8' />
+			<skill index='0' value='5' />
+			<skill index='1' value='4' />
+			<skill index='2' value='8' />
+			<skill index='3' value='2' />
+			<skill index='4' value='4' />
+		</benefits>
+	</profession>
+	
+	<profession index='1'>
+		<name>Associate Veterinarian</name>
+		<description></description>
+		<requirements>12</requirements>
+		<benefits>
+			<passion index='0' value='10' />
+			<passion index='1' value='3' />
+			<passion index='2' value='8' />
+			<skill index='0' value='5' />
+			<skill index='1' value='4' />
+			<skill index='2' value='8' />
+			<skill index='3' value='2' />
+			<skill index='4' value='4' />
+		</benefits>
+	</profession>
+	
+	<profession index='2'>
+		<name>Veterinary Technician</name>
+		<description></description>
+		<requirements>13</requirements>
+		<benefits>
+			<passion index='0' value='10' />
+			<passion index='1' value='3' />
+			<passion index='2' value='8' />
+			<skill index='0' value='4' />
+			<skill index='1' value='3' />
+			<skill index='2' value='6' />
+			<skill index='3' value='1' />
+			<skill index='4' value='8' />
+		</benefits>
+	</profession>
+	
+	<profession index='3'>
+		<name>Veterinary Technician Assistant</name>
+		<description></description>
+		<requirements></requirements>
+		<benefits>
+			<passion index='0' value='10' />
+			<passion index='1' value='3' />
+			<passion index='2' value='8' />
+			<skill index='0' value='2' />
+			<skill index='1' value='1' />
+			<skill index='2' value='4' />
+			<skill index='3' value='1' />
+			<skill index='4' value='6' />
+		</benefits>
+	</profession>
+	
+	<profession index='4'>
+		<name>Animal Research Technician</name>
+		<description></description>
+		<requirements></requirements>
+		<requirements></requirements>
+		<benefits>
+			<passion index='0' value='10' />
+			<passion index='1' value='3' />
+			<passion index='2' value='8' />
+			<skill index='0' value='2' />
+			<skill index='1' value='1' />
+			<skill index='2' value='4' />
+			<skill index='3' value='1' />
+			<skill index='4' value='6' />
+		</benefits>
+	</profession>
+	
+	<profession index='5'>
+		<name>Wildlife Extern</name>
+		<description></description>
+		<requirements></requirements>
+		<requirements></requirements>
+		<benefits>
+			<passion index='0' value='10' />
+			<passion index='1' value='3' />
+			<passion index='2' value='8' />
+			<skill index='0' value='2' />
+			<skill index='1' value='1' />
+			<skill index='2' value='4' />
+			<skill index='3' value='1' />
+			<skill index='4' value='6' />
+		</benefits>
+	</profession>
+	
+</professions>

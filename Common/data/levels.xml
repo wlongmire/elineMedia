@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<levels>
+	<level>
+		<name>Middle School</name>
+		<description></description>
+		<rounds>
+			<round>
+				<name>8th Grade</name>
+				<opportunities>
+					<opportunity pos="5" >Attend a Maker Faire<opportunitiy>
+					<opportunity pos="6" >Design and Sell T-Shirts<opportunitiy>
+					<opportunity pos="7" >Work at a Coffee Shop<opportunitiy>
+					<opportunity pos="8" >Program a Videogame<opportunitiy>
+				</opportunities>
+				
+				<choice>0</choice>
+			</round>
+			
+			<round>
+				<name>9th Grade</name>
+				<opportunities>
+					<opportunity pos="5" >Attend a Maker Faire<opportunitiy>
+					<opportunity pos="6" >Design and Sell T-Shirts<opportunitiy>
+					<opportunity pos="7" >Work at a Coffee Shop<opportunitiy>
+					<opportunity pos="8" >Program a Videogame<opportunitiy>
+				</opportunities>
+				
+				<choice>1</choice>
+			</round>
+		</rounds>
+	</level>
+</levels>

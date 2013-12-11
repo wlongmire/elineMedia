@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schools>
+
+	<school id='0' numYears='4'>
+		<name>Top Engineering School</name>
+		<description>Requires an A in both Advanced Math and Science</description>
+		<requirements>
+			<requirement>3</requirement>
+		</requirements>
+	</school>
+	
+	<school id='1' numYears='4'>
+		<name>Engineering School</name>
+		<description>Requires a B or better in both Advanced Math and Science or an A in Standard Science and Math</description>
+		<requirements>
+			<requirement>4</requirement>
+			<requirement>5</requirement>
+		</requirements>
+	</school>
+	
+	<school id='2' numYears='4'>
+		<name>Top Liberal Arts School</name>
+		<description>Requires a B or better in either Advanced Math and Science or Standard and Math and Science</description>
+		<requirements>
+			<requirement>6</requirement>
+			<requirement>7</requirement>
+		</requirements>
+	</school>
+	
+	<school id='3' numYears='4'>
+		<name>Liberal Arts School</name>
+		<description>No Requirements</description>
+		<requirements></requirements>
+	</school>
+	
+	<school id='4' numYears='4'>
+		<name>Community College</name>
+		<description>No Requirements</description>
+		<requirements></requirements>
+	</school>
+	
+	<school id='5' numYears='2'>
+		<name>Vocational School</name>
+		<description>No Requirements</description>
+		<requirements></requirements>
+	</school>
+	
+	<school id='6' numYears='2'>
+		<name>Veterinary School</name>
+		<description></description>
+		<requirements>11</requirements>
+	</school>
+	
+</schools>
